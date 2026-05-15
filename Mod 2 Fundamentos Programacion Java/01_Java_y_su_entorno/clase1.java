@@ -8,6 +8,16 @@ JDK-> Java Development Kit: contiene JRE y herramientas de desarrollo
 Estructura base parte de una clase. ideal llamarla Main con el mismo nombre del archivo
 en vscode hay que intalar java y las extensiones previamente
 
+Tipos de datos:
+Entero 5
+Real 5,5
+Cadena 'Hola Mundo'
+Caracter 'H'
+Booleano T/F
+Arreglos
+Objetos
+
+
 */
 public class clase1 {
     public static void main(String[] args) {
