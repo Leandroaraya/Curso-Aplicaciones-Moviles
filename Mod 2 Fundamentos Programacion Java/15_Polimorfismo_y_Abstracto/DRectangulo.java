@@ -1,0 +1,15 @@
+class DRectangulo extends DFigura {
+
+    private double base;
+    private double altura;
+
+    public DRectangulo(double base, double altura) {
+        this.base = base;
+        this.altura = altura;
+    }
+
+    @Override
+    public double calcularArea() {
+        return base * altura;
+    }
+}
